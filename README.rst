@@ -1,3 +1,6 @@
+THIS PROJECT IS RENAMED AND MOVED to *nmrsim* <https://github.com/sametz/nmrsim>
+================================================================================
+
 .. image:: https://mybinder.org/badge.svg
    :target: https://mybinder.org/v2/gh/sametz/nmrtools/jupytertest?filepath=jupyter
 
